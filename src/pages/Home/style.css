@@ -1,0 +1,15 @@
+.Home{
+    display: flex;
+    width: fit-content;
+    gap: 32px;
+}
+
+.Additional{
+    display: block;
+}
+
+.AirAndSun{
+    display: flex;
+    margin-bottom: 24px;
+    gap: 24px;
+}

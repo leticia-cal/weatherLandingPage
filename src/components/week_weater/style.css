@@ -1,0 +1,11 @@
+.weekContainer {
+  width: 578px;
+  height: 212px;
+  background-color: #6d67d0;
+  border-radius: 10px;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}

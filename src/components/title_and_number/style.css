@@ -1,0 +1,12 @@
+.contentLabel {
+    font-size: 18px;
+    line-height: 22px;
+    color: #87ebcd;
+    text-transform: capitalize;
+  }
+  
+.contentNumber {
+    font-size: 40px;
+    line-height: 48px;
+    color: #e7e6fb;
+  }

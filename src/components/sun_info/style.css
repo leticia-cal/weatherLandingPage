@@ -1,0 +1,22 @@
+.SunInfoWidget {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+.SunInfoWidget p:first-child {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #87ebcd;
+}
+
+.SunInfoWidget p:last-child {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #e7e6fb;
+  text-transform: uppercase;
+}
