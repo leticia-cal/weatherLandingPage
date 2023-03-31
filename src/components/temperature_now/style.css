@@ -36,20 +36,20 @@ flex-direction: column;
   gap: 8.33px;
 }
 
-main {
+.temperature {
   display: flex;
   justify-content: center;
   position: relative;
 }
 
-main p {
+.temperature p {
   font-weight: 700;
   font-size: 88px;
   line-height: 106px;
   color: #ffffff;
 }
 
-main p span {
+.temperature p span {
   font-weight: 700;
   font-size: 24px;
   line-height: 29px;
@@ -58,12 +58,12 @@ main p span {
   top: 20px;
 }
 
-main .weatherInfo{
+.temperature .weatherInfo{
   width: fit-content;
   text-align: center;
 }
 
-main div span {
+.temperature div span {
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;

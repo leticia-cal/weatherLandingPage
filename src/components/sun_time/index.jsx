@@ -9,11 +9,11 @@ export function SunTime(){
         <div className='title'>
             <span><ion-icon name="sunny"></ion-icon></span> Horário do sol
         </div>
-        <main className='content'>
+        <div className='content'>
             <div className='sun'>
                 <TitleAndNumber label="Hora Atual" contentNumber="05:00"/>
             </div>
-        </main>
+        </div>
         <div className='sunInfo'>
             <SunInfo title="Nascer" hour="05:00"/>
             <SunInfo title="Pôr" hour="18:40"/>

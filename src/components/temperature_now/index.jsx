@@ -11,7 +11,7 @@ export function TemperatureNow() {
           <p>Rio do Sul, SC</p>
         </div>
       </div>
-      <main>
+      <div className="temperature">
         <div className="weatherInfo">
         <p>
           18 <span>ºC</span>
@@ -19,7 +19,7 @@ export function TemperatureNow() {
           <span className="tMax">22°</span> <span className="tMin">16°</span>
         </div>
 
-      </main>
+      </div>
       <div className="widget">
         <ClimateInfo
           name="Vento"

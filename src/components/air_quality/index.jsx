@@ -9,9 +9,9 @@ export function AirQuality(){
             <div className='title'>
                 <span><ion-icon name="leaf"></ion-icon></span> Qualidade do ar
             </div>
-            <main className='content'>
+            <div className='content'>
                 <TitleAndNumber label="Boa" contentNumber={21}/>
-            </main>
+            </div>
             <div className='info'>
                 <AirInfo quantity={12.9} gas="PM2.5"/>
                 <AirInfo quantity={12.9} gas="PM10"/>
